@@ -9,4 +9,7 @@
 <h2>Blogging 📝 </h2>
 <ul>
   <li> <img src="https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white" /> https://instagram.com/programemos.ok?igshid=1x0iqxmmgrdb2 </li>
+ <li> <img src="https://img.shields.io/badge/Hashnode-%232962FF.svg?&style=for-the-badge&logo=hashnode&logoColor=white" /> https://hashnode.com/@nicolas-22 </li>
 </ul>
+
+
