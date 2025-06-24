@@ -1,13 +1,4 @@
 # Nicolás Bellanich
- 
-<h3>Contact me 🤜🤛</h3> 
-<ul>
- <li>
-   <a href="https://www.linkedin.com/in/nicolasbellanich/">
-      <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white">
-   </a>
-  </li>
-</ul>
 
 <h3>My Blogs 📝 </h3>
 <ul>
