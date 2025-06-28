@@ -1,6 +1,6 @@
 # Nicolás Bellanich
 
-<h3>My Blogs 📝 </h3> 
+<h3>My Blogs 📝 </h3>
 <ul>
  <li>
   <a href="https://instagram.com/programemos.ok?igshid=1x0iqxmmgrdb2 </li>">
